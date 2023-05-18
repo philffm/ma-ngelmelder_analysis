@@ -1,0 +1,15 @@
+1684179580113	geckodriver	INFO	Listening on 127.0.0.1:61662
+1684179580627	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wc/1fgpcwpx4rzfbbc7shb_wy8h0000gn/T/rust_mozprofileYjYtfw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684179581803	Marionette	INFO	Marionette enabled
+1684179582323	Marionette	INFO	Listening on port 61680
+Read port: 61680
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61663
+1684179582917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wc/1fgpcwpx4rzfbbc7shb_wy8h0000gn/T/rust_mozprofileYjYtfw/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61663/devtools/browser/2209ff6b-6423-451d-a124-32810a3f5b16
+1684225475685	Marionette	INFO	Stopped listening on port 61680

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "This CITATION.cff file provides citation information for the ma-ngelmelder_analysis repository."
+
+title: "Mängelmelder Analysis: Analyzing the Participation and Categories of Citizen Participation Platform 'Mängelmelder' in Germany with a Focus on Cycling Infrastructure"
+version: "1.0"
+doi: 
+url: "https://github.com/philffm/ma-ngelmelder_analysis"
+repository-code: "philffm/ma-ngelmelder_analysis"
+date-released: 2023-05-13
+author:
+  - family-names: "Wornath"
+    given-names: "Phil"
+affiliation:
+  - name: "Utrecht University of Applied Sciences"
+    email: "phil.wornath@student.hu.nl>"
+    url: "https://www.hu.nl/"
+  - name: "Other Affiliations"
+    email: "<INSERT_EMAIL_HERE>"
+license: "MIT License"
+keywords:
+  - citizen participation
+  - Mängelmelder
+  - cycling infrastructure
+  - analysis
+description: "This repository contains the code and analysis for a study conducted by Phil Wornath from Utrecht University of Applied Sciences. The study focuses on analyzing the participation and categories of the citizen participation platform 'Mängelmelder' in Germany, with a specific emphasis on cycling infrastructure. The repository includes scripts, data, and documentation used in the analysis."
