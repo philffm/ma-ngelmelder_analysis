@@ -597,3 +597,39 @@ JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/983695, line 1: Referen
 [Child 67635, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
 [Child 67635, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
 1687438792476	Marionette	INFO	Stopped listening on port 65054
+1687875644119	geckodriver	INFO	Listening on 127.0.0.1:50149
+1687875644606	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wc/1fgpcwpx4rzfbbc7shb_wy8h0000gn/T/rust_mozprofileFcQ7Vl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687875645357	Marionette	INFO	Marionette enabled
+1687875645522	Marionette	INFO	Listening on port 50157
+Read port: 50157
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:50150
+1687875645600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50150/devtools/browser/b4abccfe-d9f2-4b3c-ad5c-f8d3aebf90a9
+1687880518941	geckodriver	INFO	Listening on 127.0.0.1:63876
+1687880519447	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wc/1fgpcwpx4rzfbbc7shb_wy8h0000gn/T/rust_mozprofilexV5Sy0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687880519884	Marionette	INFO	Marionette enabled
+1687880520075	Marionette	INFO	Listening on port 63884
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63877
+Read port: 63884
+1687880520307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63877/devtools/browser/a0f32544-bce8-4358-8c2a-ab65de1489e4
+JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/1252466, line 1: ReferenceError: wdwMapInit is not defined
+JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/1255048, line 1: ReferenceError: wdwMapInit is not defined
+JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/1245478, line 1: ReferenceError: wdwMapInit is not defined
+JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/1235166, line 1: ReferenceError: wdwMapInit is not defined
+JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/1251440, line 1: ReferenceError: wdwMapInit is not defined
+JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/1241626, line 1: ReferenceError: wdwMapInit is not defined
+JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/1244353, line 1: ReferenceError: wdwMapInit is not defined
+JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/1254307, line 1: ReferenceError: wdwMapInit is not defined
+JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/1241617, line 1: ReferenceError: wdwMapInit is not defined
+JavaScript error: https://www.xn--mngelmelder-l8a.de/bms/1254567, line 1: ReferenceError: wdwMapInit is not defined
